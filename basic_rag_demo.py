@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 
 from langchain.chains import RetrievalQA
 
+#loads enviornment
 load_dotenv()
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
