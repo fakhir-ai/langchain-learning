@@ -1,0 +1,26 @@
+Welcome to Natural Language Processing  
+It is one of the most exciting research areas as of today  
+We will see how Python can be used to work with text files. 
+Python possesses a variety of features that contribute to its widespread adoption and versatility:
+Easy to Learn and Read:
+Python's syntax is designed for readability and simplicity, often resembling natural language, which makes it easier for beginners to learn and for developers to understand existing code.
+Interpreted Language:
+Python code is executed line by line by an interpreter, facilitating rapid prototyping and easier debugging compared to compiled languages.
+Dynamically Typed:
+Python automatically infers the data type of variables at runtime, eliminating the need for explicit type declarations and speeding up development.
+High-Level Language:
+Python abstracts away low-level details like memory management, allowing developers to focus on problem-solving rather than system intricacies.
+Object-Oriented Programming (OOP):
+Python fully supports OOP principles such as classes, objects, inheritance, polymorphism, and encapsulation, enabling modular and reusable code.
+Free and Open Source:
+Python is freely available for use and distribution, and its source code is accessible to the public, fostering a collaborative development environment.
+Large Standard Library:
+Python comes with an extensive collection of built-in modules and packages, providing ready-to-use functionalities for various tasks, from web development to data manipulation.
+Cross-Platform Compatibility:
+Python code can run on different operating systems (Windows, macOS, Linux, etc.) without modification, promoting portability. 
+Extensible and Embeddable:
+Python can be extended with modules written in other languages (like C/C++) for performance-critical tasks, and it can also be embedded within other applications.
+GUI Programming Support:
+Python offers various libraries and frameworks (e.g., Tkinter, PyQt, Kivy) for developing graphical user interfaces.
+Large Community Support:
+Python boasts a vast and active global community of developers who contribute to its development, provide extensive documentation, and offer support through forums and online resources.
